@@ -1,4 +1,4 @@
-# Add two numbers with simple one
+# Question 1
 arr = [2,7,11,15]
 target = 18
 for i in range(len(arr)):
@@ -6,7 +6,7 @@ for i in range(len(arr)):
         if arr[j] == target - arr[i]:
             print(i , j)
 
-# Add two numbers with linklist
+# Question 2
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
