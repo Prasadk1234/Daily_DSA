@@ -1,3 +1,7 @@
+*04-01-2024*
+            
+            https://leetcode.com/problems/valid-parentheses/
+
 *03-01-2024*
             
             https://leetcode.com/problems/implement-stack-using-queues/?envType=daily-question&envId=2024-01-02
