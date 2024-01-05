@@ -1,3 +1,8 @@
+*05-01-2024*
+
+            https://leetcode.com/problems/roman-to-integer/submissions/1137858846/
+            https://leetcode.com/problems/next-greater-element-i/description/
+
 *04-01-2024*
             
             https://leetcode.com/problems/valid-parentheses/
