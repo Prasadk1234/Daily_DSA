@@ -1,3 +1,9 @@
+*06-01-2024*
+
+            https://leetcode.com/problems/zigzag-conversion/description/
+            https://leetcode.com/problems/palindrome-number/description/
+            https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/
+
 *05-01-2024*
 
             https://leetcode.com/problems/roman-to-integer/submissions/1137858846/
