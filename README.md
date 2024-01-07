@@ -1,5 +1,10 @@
 # Question on daily basis date and question link
 
+*07-01-2024*
+
+            https://leetcode.com/problems/reverse-integer/
+            https://leetcode.com/problems/longest-common-prefix/description/
+
 *06-01-2024*
 
             https://leetcode.com/problems/zigzag-conversion/description/
