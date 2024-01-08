@@ -1,5 +1,11 @@
 # Question on daily basis date and question link
 
+*08-01-2024*
+            
+            https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+            https://leetcode.com/problems/remove-element/
+            https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
 *07-01-2024*
 
             https://leetcode.com/problems/reverse-integer/
