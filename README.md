@@ -1,5 +1,9 @@
 # Question on daily basis date and question link
 
+*10-01-2024*
+
+            https://leetcode.com/problems/search-insert-position/
+
 *09-01-2024*
 
             https://leetcode.com/problems/integer-to-roman/
