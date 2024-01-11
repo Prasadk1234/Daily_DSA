@@ -1,5 +1,8 @@
 # Question on daily basis date and question link
-
+*11-01-2024*
+            
+            https://leetcode.com/problems/3sum/
+            
 *10-01-2024*
 
             https://leetcode.com/problems/search-insert-position/
