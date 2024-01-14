@@ -1,4 +1,9 @@
 # Question on daily basis date and question link
+*14-01-2024*
+            
+            https://leetcode.com/problems/plus-one/
+            https://leetcode.com/problems/length-of-last-word/submissions/1146230148/
+            
 *12-01-2024*
 
             https://leetcode.com/problems/4sum/description/
