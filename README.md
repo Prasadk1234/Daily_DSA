@@ -1,4 +1,8 @@
 # Question on daily basis date and question link
+*15-01-2024*
+
+            https://leetcode.com/problems/add-binary/description/
+            
 *14-01-2024*
             
             https://leetcode.com/problems/plus-one/
