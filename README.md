@@ -1,4 +1,14 @@
 # Question on daily basis date and question link
+*22-01-2024*
+
+            https://leetcode.com/problems/merge-sorted-array/description/
+            https://leetcode.com/problems/set-mismatch/description/
+
+*20-01-2024*
+
+            https://leetcode.com/problems/sum-of-subarray-minimums/description/
+            https://leetcode.com/problems/sqrtx/
+            
 *18-01-2024*
 
             https://leetcode.com/problems/generate-parentheses/description/
